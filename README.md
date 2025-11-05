@@ -1,6 +1,6 @@
 # Gridap_PoroViscoHyperelastic
-This repository contains the Julia code implementations described in the article [_A Gridap-based Poro-Visco-Hyperelastic model implementation in
-Julia: Application to cartilage_](https://arxiv.org/abs/2401.12974). The scripts correspond to the becnhmarks presented in the paper, enabling full reproducibility of the reported results.
+This repository contains the Julia code implementations described in the article [A Gridap-based Poro-Visco-Hyperelastic model implementation in
+Julia: Application to cartilage](https://www.sciencedirect.com/science/article/pii/S0169260725002925) UPDATE LINK. The scripts correspond to the becnhmarks presented in the paper, enabling full reproducibility of the reported results.
 
 - **BENCHMARK 1: Terzaghi’s consolidation problem.** Terzaghi’s consolidation problem describes the time-dependent dissipation of excess pore pressure in a saturated porous medium subjected to a sudden load. It models the coupled interaction between fluid flow and soil deformation, governed by the theory of one-dimensional consolidation. This benchmark is widely used to validate numerical formulations for poroelasticity.
   <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/d3e2c099-b51e-4fb4-819c-bdb92c72de78" />
